@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="assets/gif-header.gif"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Farid Kurniawan from Aceh<br><br>- 🎓 I'm a 4th-semester Informatics student at <br>- 📚 I'm currently learning on building modern and clean web applications<br>- 💻 Passionate Full-Stack Web Developer</p>
+<p align="left">I'm Farid Kurniawan from Aceh<br><br>- 🎓 I'm a 4th-semester Informatics student at Malikussaleh University<br>- 📚 I'm currently learning on building modern and clean web applications<br>- 💻 Full-Stack Web Developer</p>
 
 ###
 
